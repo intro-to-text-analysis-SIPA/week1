@@ -11,5 +11,5 @@ This week, we will review the syllabus and the course objectives. We will also d
     - Final projects
 
 - Assignments (due by Sunday 1/22 at 11:59pm):
-    - [Create a Github Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
+    - [Create a GitHub Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
     - Complete this dummy assignment so I can add you to our Github classroom
