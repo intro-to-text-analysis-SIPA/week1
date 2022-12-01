@@ -12,4 +12,4 @@ This week, we will review the syllabus and the course objectives. We will also d
 
 - Assignments (due by Sunday 1/22 at 11:59pm):
     - [Create a GitHub Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
-    - Complete [this dummy assignment](https://classroom.github.com/a/SMOm5AdG) so I can add you to our Github classroom
+    - Accept [this dummy assignment](https://classroom.github.com/a/SMOm5AdG) so I can add you to our GitHub classroom
